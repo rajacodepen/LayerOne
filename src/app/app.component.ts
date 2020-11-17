@@ -1,4 +1,5 @@
 /* check in from visual studio */
+/* second change from laptop */
 import { Component, VERSION } from '@angular/core';
 
 @Component({
