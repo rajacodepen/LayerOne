@@ -1,3 +1,4 @@
+/* check in from visual studio */
 import { Component, VERSION } from '@angular/core';
 
 @Component({
